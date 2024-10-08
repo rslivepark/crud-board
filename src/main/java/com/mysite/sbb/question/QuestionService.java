@@ -5,6 +5,8 @@ import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
+import com.mysite.sbb.DataNotFoundException;
+
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
